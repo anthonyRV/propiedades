@@ -36,13 +36,13 @@
         <a href="#">Faq</a>
         <a href="#">Contact</a>
       </p>
-      <p class="copywrite">Copywrite not copywrite © 2015</p>
+      <p class="copywrite">Copywrite not copywrite © 2016</p>
     </div>
     <div class="small-12 medium-6 large-4 columns">
       <ul class="contact">
-        <li><p><i class="fi-marker"></i>1595 Spring Street New Britain, CT 06051</p></li>
-        <li><p><i class="fi-telephone"></i>+1-656-453-9966</p></li>
-        <li><p><i class="fi-mail"></i>contact@emperor.com</p></li>
+        <li><p><i class="fi-marker"></i>San Carlos, Alajuela, Costa Rica</p></li>
+        <li><p><i class="fi-telephone"></i>+506 888 88 88</p></li>
+        <li><p><i class="fi-mail"></i>contact@webTec.com</p></li>
       </ul>
     </div>
     <div class="small-12 medium-12 large-3 columns">
